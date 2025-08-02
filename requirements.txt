@@ -1,0 +1,26 @@
+# === FASTAPI BACKEND ===
+fastapi
+uvicorn
+
+# === ELASTICSEARCH PYTHON CLIENT ===
+elasticsearch
+
+# === DATA MODELLING ===
+pydantic
+
+# === ASYNC FILE HANDLING (optional but recommended) ===
+aiofiles
+
+# === CORS FOR BACKEND-FRONTEND INTEGRATION ===
+python-multipart
+
+# === OPTIONAL UTILITIES ===
+requests         # helpful for API testing or validation
+httpie           # for command-line testing: http :8000/search?q=admissions
+
+# === CRAWLER ===
+scrapy
+
+# === TEXT/HTML UTILITIES (used internally by Scrapy) ===
+w3lib
+
